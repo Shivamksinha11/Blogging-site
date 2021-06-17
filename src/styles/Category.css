@@ -1,0 +1,15 @@
+.cate{
+    width: 100%;
+    height: 50vh;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+@media only screen and (max-width: 735px) {
+    .cate {
+        height: 30vh;
+    }
+}
+.carousel{
+    margin-bottom: 20px;
+}

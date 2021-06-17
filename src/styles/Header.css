@@ -1,0 +1,32 @@
+.head{
+    border-bottom: 1px solid lightgray !important;
+    text-align: center;
+    padding-top: 22px;
+    padding-bottom: 22px;
+}
+.subheader{
+    font-weight: bold;
+}
+.name{
+    color: red;
+}
+
+
+.subhead{
+    padding-bottom: 55px;
+    border-bottom: 1px solid lightgray !important;
+    text-align: center;
+    padding-top: 55px;
+}
+
+@media only screen and (max-width: 735px) {
+    .head {
+        padding-top: 25px;
+        padding-bottom: 25px;
+
+    }
+    .subhead {
+        padding-bottom: 1.5rem;
+        padding-top: 1.5rem;
+    }
+  }

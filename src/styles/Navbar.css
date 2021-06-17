@@ -1,0 +1,14 @@
+.navbar{
+    background-color: rgb(255,255,255) !important;
+}
+.nav-link{
+    font-weight: bold !important;
+    color: black !important;
+}
+.nav-link:hover{
+    color: blue !important;
+}
+.logo{
+    width: 150px;
+    height: 70px;
+}
